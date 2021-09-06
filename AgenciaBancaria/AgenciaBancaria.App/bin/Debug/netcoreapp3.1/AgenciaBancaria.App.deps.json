@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AgenciaBancaria.App/1.0.0": {
+        "dependencies": {
+          "AgenciaBancaria.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "AgenciaBancaria.App.dll": {}
+        }
+      },
+      "AgenciaBancaria.Dominio/1.0.0": {
+        "runtime": {
+          "AgenciaBancaria.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgenciaBancaria.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgenciaBancaria.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

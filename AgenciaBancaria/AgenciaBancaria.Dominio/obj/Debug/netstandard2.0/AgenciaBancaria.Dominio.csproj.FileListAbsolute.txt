@@ -1,0 +1,9 @@
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\netstandard2.0\AgenciaBancaria.Dominio.deps.json
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\netstandard2.0\AgenciaBancaria.Dominio.dll
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\netstandard2.0\AgenciaBancaria.Dominio.pdb
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.Dominio.dll
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.Dominio.pdb
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\netstandard2.0\AgenciaBancaria.Dominio.csprojAssemblyReference.cache

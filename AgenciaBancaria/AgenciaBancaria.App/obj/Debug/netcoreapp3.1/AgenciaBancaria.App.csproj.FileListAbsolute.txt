@@ -1,0 +1,16 @@
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.csprojAssemblyReference.cache
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.AssemblyInfoInputs.cache
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.AssemblyInfo.cs
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.csproj.CoreCompileInputs.cache
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.App.exe
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.App.deps.json
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.App.runtimeconfig.json
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.App.runtimeconfig.dev.json
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.App.dll
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.App.pdb
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.Dominio.dll
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\netcoreapp3.1\AgenciaBancaria.Dominio.pdb
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.csproj.CopyComplete
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.dll
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.pdb
+C:\Users\lucas\mentoria-decolatech-2021\mentoria-decolatech-2021\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\netcoreapp3.1\AgenciaBancaria.App.genruntimeconfig.cache

@@ -1,1 +1,0 @@
-# mentoria-decolatech-2021
